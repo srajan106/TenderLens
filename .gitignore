@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.env
+*.pdf
+Backend/Ingestion/ingestion_output.json
