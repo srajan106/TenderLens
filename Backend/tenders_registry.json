@@ -1,0 +1,36 @@
+{
+    "tender_0135c8aa84": {
+        "tender_id": "tender_0135c8aa84",
+        "filename": "1707222063_Vol-1.pdf",
+        "stored_filename": "tender_0135c8aa84_1707222063_Vol-1.pdf",
+        "filepath": "S:\\mahal\\Projects\\Sujan_gen\\TenderLens\\Backend\\uploads\\tender_0135c8aa84_1707222063_Vol-1.pdf",
+        "total_pages": 32,
+        "total_chunks": 85,
+        "indexed_chunks": 85,
+        "metadata": {
+            "filename": "1707222063_Vol-1.pdf",
+            "tender_number": "PCO/BBSR/806/156",
+            "organization": null,
+            "estimated_value": null,
+            "submission_deadline": "of tender."
+        },
+        "upload_time": "2026-11-05T13:40:35.942920+00:00"
+    },
+    "tender_d778c70aa4": {
+        "tender_id": "tender_d778c70aa4",
+        "filename": "Tender-Document-for-2x-Prefabricated-Class-Rooms.pdf",
+        "stored_filename": "tender_d778c70aa4_Tender-Document-for-2x-Prefabricated-Class-Rooms.pdf",
+        "filepath": "S:\\mahal\\Projects\\Sujan_gen\\TenderLens\\Backend\\uploads\\tender_d778c70aa4_Tender-Document-for-2x-Prefabricated-Class-Rooms.pdf",
+        "total_pages": 25,
+        "total_chunks": 62,
+        "indexed_chunks": 62,
+        "metadata": {
+            "filename": "Tender-Document-for-2x-Prefabricated-Class-Rooms.pdf",
+            "tender_number": "ion",
+            "organization": null,
+            "estimated_value": null,
+            "submission_deadline": null
+        },
+        "upload_time": "2026-11-05T13:40:42.229300+00:00"
+    }
+}
